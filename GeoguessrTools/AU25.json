@@ -1,0 +1,21 @@
+{
+  "countryCodes": [
+    "AU"
+  ],
+  "distributionStrategy": {
+    "key": "FixedCountByMaxMinDistance",
+    "minMinDistance": 25,
+    "locationCountGoal": 10000,
+    "countryDistributionFromMap": null
+  },
+  "output": {
+    "locationTags": [],
+    "panoIdCountryCodes": [],
+    "globalHeadingExpression": null,
+    "countryHeadingExpressions": null,
+    "globalZoom": null,
+    "globalPitch": null,
+    "panoVerificationStrategy": "Newest"
+  },
+  "globalLocationFilter": "Year gte 2025"
+}
